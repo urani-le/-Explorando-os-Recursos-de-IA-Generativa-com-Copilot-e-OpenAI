@@ -1,0 +1,23 @@
+ Use prompts para gerar respostas
+como por exemplo: 
+me indique as melhores ferramentas para analise de bioinformatica
+
+RESPOSTA : 
+Claro! A bioinformática é uma área fascinante que combina biologia e computação para analisar e interpretar dados genômicos, proteômicos e outros dados biológicos. Aqui estão algumas **ferramentas populares** utilizadas na bioinformática:
+
+1. **Python**: Python é uma linguagem de programação amplamente usada na bioinformática. Ela é flexível, poderosa e fácil de aprender. Com uma grande variedade de bibliotecas específicas para análise de dados biológicos, Python é frequentemente usado para analisar sequências de DNA, RNA, estruturas de proteínas e expressão gênica¹.
+
+2. **R**: R é outra linguagem de programação popular na bioinformática. Embora menos conhecida do que Python, ela é adequada para computação gráfica e estatística. Bioinformáticos frequentemente utilizam R para análise estatística de dados genômicos e proteômicos².
+
+3. **Bioconductor**: Uma ferramenta específica para análise de dados genômicos de alto rendimento. Ela é baseada em R e oferece uma variedade de pacotes para análise de expressão gênica, sequenciamento de DNA e muito mais².
+
+4. **Biopython**: Um conjunto de ferramentas Python para computação biológica. Ele inclui módulos para análise de sequências de DNA, alinhamentos, busca por elementos específicos e comparações entre objetos biológicos¹.
+
+5. **BioPerl**: Um conjunto de ferramentas Perl para biologia molecular computacional. Ele é usado para tarefas como análise de sequências de DNA, predição de estruturas de proteínas e muito mais².
+
+Lembre-se de explorar essas ferramentas de acordo com suas necessidades específicas na área de bioinformática! 😊
+
+Origem: conversa com o Bing, 15/04/2024
+(1) 10 softwares gratuitos utilizados na bioinformática. https://protosbiotec.com/blog/10-softwares-gratuitos-utilizados-na-bioinformatica/.
+(2) Descubra os 17 melhores Ferramentas de Bioinformática Linux Gratuitas .... https://sempreupdate.com.br/conheca-17-excelentes-ferramentas-de-bioinformatica-linux-gratuitas-e-de-codigo-aberto/.
+(3) 8 softwares de bioinformática de acesso gratuito - Profissão Biotec. https://profissaobiotec.com.br/8-softwares-de-bioinformatica-de-acesso-gratuito/.
